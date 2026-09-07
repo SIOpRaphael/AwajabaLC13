@@ -11,4 +11,8 @@ private class Repas {
 		this.date = date;
 	}
 	
+	public int getNumero(){
+		return this.numero;
+	}
+	
 }
